@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338368160318",
+    "project_id": "acro-campus-connect",
+    "storage_bucket": "acro-campus-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338368160318:android:4a1ff31b508845257c276f",
+        "android_client_info": {
+          "package_name": "com.aitr.acroconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338368160318-j3dlkmt7g4m7gegg22qlq6n5vj4iu31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc5ni0nWhDe-1tpHVXXAB4kRq13Go9a4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338368160318-j3dlkmt7g4m7gegg22qlq6n5vj4iu31e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

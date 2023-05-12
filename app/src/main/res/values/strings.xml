@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Acro Connect</string>
+    <string name="acro_connect">ACRO\nCONNECT</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">REGISTER</string>
+    <string name="already_have_an_account">Already have an Account??</string>
+    <string name="email">Email</string>
+    <string name="acro_connect_2">ACRO CONNECT</string>
+    <string name="timetable">TimeTable</string>
+    <string name="classtxt">Class</string>
+    <string name="noticetxt">Notice</string>
+    <string name="store">Store</string>
+    <string name="firstname">First Name</string>
+    <string name="attendance">Attendance: </string>
+    <string name="_00">00%</string>
+    <string name="time_table_2">TIME TABLE</string>
+</resources>
